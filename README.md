@@ -2,7 +2,8 @@
 11124114黃安德,  11124111王志節
 ## 生成包含20個亂數的列表
 
-ˊˊˊimport random
+ˋˋˋ
+import random
 random_list = [random.randint(0,100) for a in range(20)]ˋˋˋ
 ![Example Images](test實作.jpg)
 
