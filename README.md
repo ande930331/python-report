@@ -5,7 +5,6 @@
 
 
 
-![Example Images](text.jpg)
 
 
 
