@@ -17,6 +17,7 @@ print("隨機列表:\n", random_list)
 print("排序後的列表:\n", result_list)
 ```
 ![Example Images](輸出結果.jpg)
+##實作
 ![Example Images](test實作.jpg)
 
 
