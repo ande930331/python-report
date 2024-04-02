@@ -3,10 +3,9 @@
 ## 生成包含20個亂數的列表
 ```
 import random
-random_list = [random.randint(0,100) for a in range(20)]
-ˋˋˋ
+random_list = [random.randint(0,100) for a in range(20)]ˋˋˋ
 
-
+##實作
 ![Example Images](test實作.jpg)
 
 
