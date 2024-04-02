@@ -3,7 +3,8 @@
 ## 生成包含20個亂數的列表
 
 
-'''import random
+'''
+import random
 random_list = [random.randint(0,100) for a in range(20)]
 '''
 ![Example Images](test實作.jpg)
