@@ -4,7 +4,7 @@
 ```
 import random
 random_list = [random.randint(0,100) for a in range(20)]
-ˋˋˋ
+
 
 ![Example Images](test實作.jpg)
 
